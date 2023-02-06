@@ -1,4 +1,4 @@
-# Hi, i'm Marcela Silva! :sparkles:
+# Hi, eu sou Marcela Silva! :sparkles:
 
 ![Profile views](https://gpvc.arturio.dev/marcelansilva)
 
