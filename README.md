@@ -11,7 +11,7 @@
 
 ## :large_blue_diamond: Sobre mim
 
-Estudante de desenvolvimento, engajada e apaixonada por tecnologia.
+Estudante de Qualidade de Software, engajada e apaixonada por tecnologia.
 
 
 ## :rocket: Estou aprendendo
